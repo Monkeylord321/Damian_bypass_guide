@@ -6,6 +6,8 @@ For software piracy, we have getintopc.com. I do not recommend downloading from 
 Game piracy: Steamunlocked.org, it contains essentially every steam game. The only downside is the download speed; unless you pay, it will be diabolically slow.
 I recommend leaving the laptop on overnight to download the file. 
 Note when clicking on download, it will take you to some random ad websites; the correct one is Download Heaven. Any others contain malware.
+
+
 Anime Piracy. If you have to watch anime offline, I recommend searching for your anime on archive.org or getting the free open-source torrent downloader like
 qbittorrent and use https://nyaa.si/; my personal favorite anime pirating website has everything.
 If you happen to have a wifi connection, it's smarter to go for something like Hianime. to make it easier to navigate and watch anime.
