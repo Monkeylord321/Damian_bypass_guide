@@ -1,46 +1,61 @@
-Hello Everyone in this Document we will discust on how to abuse the Securety vounerabyletys 
-that our beloved Damian diden't patch.
+Hello everyone,  In this document we will discuss how to abuse the security vulnerabilities. 
 
-Note: If Damian trys to patch somthing check back on the document in 2-5 buissnes days a fix
+that our beloved Damian didn't patch.
+
+Note: If Damian tries to patch something, check back on the document in 2-5 business days for a fix.
+
 for the problem will be found by me.
 
-First Damian doesen't block websites wich means we can dowload Games from Steamunlocked.org ,
-or for anime fans hianime.to is not blocked either 
+First, Damian doesn't block websites, which means we can download games from Steamunlocked.org.
 
+Or for anime fans, hianime.to is not blocked either. 
 
-Now lets discused said bypassing methods:
+Now let's discuss said bypassing methods:
 
-1. Probably the best one is Scoop (# Link to scoop) it allows you to install steam with the anticheat 
-so playing games like CS in non bot lobbis is possible 
+1. Probably the best one is Scoop (Scoop); it allows you to install Steam with the anti-cheat. 
 
-Guide for scoop: go to the website that is linked up there then open Powershell and input the
-command on the website into powershell. (if u dont know what any of that is this guide is not ment for u)
-after installing scoop u can search on the scoop website for things like steam or other tools 
-some will still require admininstrativ rights but steam and Heroic (opensourc launcher for epic blizard and Ubisoft)
+So playing games like CS in non-bot lobbies is possible. 
 
-2. In the Repo u will have found a batch file when opening the batch will u will see this command:
+Guide for scoop: go to the website that is linked up there, then open PowerShell and input the
+
+command on the website into PowerShell. (If you don't know what any of that is, this guide is not meant for you.)
+
+After installing Scoop, you can search on the Scoop website for things like Steam or other tools. 
+
+Some will still require administrative rights, but Steam and Heroic (an open-source launcher for Epic, Blizzard, and Ubisoft)
+
+2. In the repo, you will have found a batch file. When opening the batch, you will see this command:
+
 cmd /min /C "set __COMPAT_LAYER=RUNASINVOKER && start "" "Your path"
 
-Where it says "Your path" delet out only the Your path the collans have to stay for it to work.
-this can be used to semi bypass admin rights restricions for apps not able to be installed via scoop
+Where it says "Your path," delete only "Your path"; the colons have to stay for it to work.
 
-Limitations: It does not work with wizard installers so no epic games or any other programm that uses a wizard installer
-scoop is more powerfull becous dowloads a type of portable version of the prgramm so no edits in the regestry editor have to
+This can be used to semi-bypass admin rights restrictions for apps not able to be installed via Scoop.
+
+Limitations: It does not work with wizard installers, so no Epic Games or any other program that uses a wizard installer.
+
+Scoop is more powerful. because it downloads a type of portable version of the program, so no edits in the registry editor have to
+
 be made.
 
-3. Microsoft store, Probably one of the less usfull one
-but the microsoft store has rights and installs a diffrent version for most prgramms then the official 
-installer of them (dont use MS store python, only if absolutly necssesary) 
+3. Microsoft Store, probably one of the less useful ones
 
+but the Microsoft Store has rights and installs a different version for most programs than the official 
 
-Knows issues: (if u find any i am unaware of pleas contact me via Laurin.Asmin@gmail.com DO NOT use your school email use a personal one)
+installer of them (don't use MS Store Python unless absolutely necessary) 
 
-1. Offizial Roblox not working. Its being flaged by Cortex XDR
-2. Minecraft launcher requiering admin rights. if it has not been installed befor that fix.
+Known issues: (If you find any I am unaware of, please contact me via Laurin.Asmin@gmail.com.) DO NOT use your school email; use a personal one.
+
+1. Official Roblox is not working. It's being flagged by Cortex XDR.
+
+2. Minecraft launcher requiring admin rights. if it has not been installed before that fix.
 
 Fixes:
-1. The offizial Roblox installer works but after its installed it will get flaged at launch and preventet
-by Cortex. For fixing this issue dowload Roblox from the MS store due it dowloading a diffrent version it works.
 
-3. All 3rd party launchers are banned by cortex
+1. The official Roblox installer works, but after it's installed, it will get flagged at launch and prevented.
+
+by Cortex. To fix this issue, download Roblox from the MS store. Due to. Due to it downloading a different version, it works.
+
+3. All 3rd party launchers are banned by Cortex.
+
  
