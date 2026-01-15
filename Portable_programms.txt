@@ -1,1 +1,7 @@
+Portable programms should only be used if its not possible to dowload them via the batch file. Or if they are unavailable on the mircosoft store.
+
+
 1. QbitorrenPortable one of the if not the best portable torrent client can be used to dowload files with the torrents from https://nyaa.si/ (the anime piracy site).
+
+2.Qemu is the only VM with a portable version
+
