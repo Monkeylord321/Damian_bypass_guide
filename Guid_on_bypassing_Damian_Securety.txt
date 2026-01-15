@@ -1,3 +1,6 @@
+IMPORTANT: for educational purpasos only of course.!!!!
+
+
 Hello everyone,  In this document we will discuss how to abuse the security vulnerabilities. 
 
 that our beloved Damian didn't patch.
@@ -59,3 +62,4 @@ by Cortex. To fix this issue, download Roblox from the MS store. Due to. Due to 
 3. All 3rd party launchers are banned by Cortex.
 
  
+
