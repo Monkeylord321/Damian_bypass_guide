@@ -57,9 +57,10 @@ Fixes:
 
 1. The official Roblox installer works, but after it's installed, it will get flagged at launch and prevented.
 
-by Cortex. To fix this issue, download Roblox from the MS store. Due to. Due to it downloading a different version, it works.
+by Cortex. To fix this issue, download Roblox from the Microsoftstore. Due to. Due to it downloading a different version, it works.
 
 3. All 3rd party launchers are banned by Cortex.
 
  
+
 
